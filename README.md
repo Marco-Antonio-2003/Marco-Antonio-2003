@@ -1,8 +1,8 @@
 
 
-<p align="center">Hello, my name is Marco Antônio, and I am a student of Systems Analysis and Development at UNISO, Sorocaba (SP) Brazil. <br><br> <strong> I study programming languages such as Python (PyAutoGUI and a bit of Pandas and Matplotlib), HTML, CSS (Bootstrap 5), and currently, PHP.</strong></p>&nbsp; <br>
-<p>Em português</p> <br>
-<p align="center">Olá, meu nome é Marco Antônio, e sou estudante de Análise e Desenvolvimento de Sistemas na UNISO, Sorocaba (SP), Brasil. <br><br> <strong>Estudo linguagens de programação como Python (PyAutoGUI e um pouco de Pandas e Matplotlib), HTML, CSS (Bootstrap 5) e atualmente, PHP.</strong></p>&nbsp;
+<p align="center">Hello, my name is Marco Antônio, and I am a student of Systems Analysis and Development at UNISO, Sorocaba (SP) Brazil. <br><br> <strong> I study programming languages such as Python (PyAutoGUI and a bit of Pandas and Matplotlib), HTML, CSS (Bootstrap 5), and currently, JavaScript and PHP.</strong></p>&nbsp; <br>
+<p>Em português: </p> <br>
+<p align="center">Olá, meu nome é Marco Antônio, e sou estudante de Análise e Desenvolvimento de Sistemas na UNISO, Sorocaba (SP), Brasil. <br><br> <strong>Estudo linguagens de programação como Python (PyAutoGUI e um pouco de Pandas e Matplotlib), HTML, CSS (Bootstrap 5), e atualmente, JavaScript e PHP.</strong></p>&nbsp;
 
 
  
