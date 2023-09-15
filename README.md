@@ -13,6 +13,9 @@
 
 ## My Skills
 
+### My experiences in my course: 
+UX/UI, IT Management, IT Infrastructure, MySQL database, security systems, front-end, and back-end.
+
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
