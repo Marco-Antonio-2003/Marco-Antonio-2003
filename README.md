@@ -13,8 +13,6 @@
 
 ## My Skills
 
-### My experiences in my course: 
-UX/UI, IT Management, IT Infrastructure, MySQL database, security systems, front-end, and back-end.
 
 #### Main Stack:
 
